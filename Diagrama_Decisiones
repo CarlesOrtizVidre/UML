@@ -1,3 +1,10 @@
+# Diagramas de decisiones
+  ## Decisiones
+  
+  El siguiente diagrama representa las deciones y las consecuencias que ello conlleva.
+
+
+```java
 class Nadador {
       int nivelUML;
       
@@ -19,3 +26,4 @@ class Nadador {
       void femeunacerveza() { /***/ }
       void descansarUnPoco() { /***/ }
 }
+```
