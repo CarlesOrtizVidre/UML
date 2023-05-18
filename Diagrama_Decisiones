@@ -1,21 +1,21 @@
-class Estudiante {
+class Nadador {
       int nivelUML;
       
-      boolean comprendoUML {
+      boolean navadando {
             return nivelUML > 5;
       }
       
-      void estudiarUML {
+      void nadando {
             nivelUML++;
             
-            if (comprendoUML()) {
-                  verLaTelevisión();
+            if (nadando()) {
+                  femeunacerveza();
             } else {
                   descansarUnPoco();
-                  estudiarUML();
+                  nadando();
             }
       }
       
-      void verLaTelevision() { /***/ }
+      void femeunacerveza() { /***/ }
       void descansarUnPoco() { /***/ }
 }
